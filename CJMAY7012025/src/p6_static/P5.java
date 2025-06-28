@@ -2,7 +2,7 @@ package p6_static;
 
 public class P5 {
 	
-	static int a;
+	static int a ;
 	
 	public static void main(String[] args) {
 		int a = 10;
