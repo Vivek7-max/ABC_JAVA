@@ -1,4 +1,4 @@
-package p1_datatype;
+package p1_Datatype;
 class E 
 {
 	public static void main(String[] args) 

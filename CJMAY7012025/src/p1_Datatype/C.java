@@ -1,4 +1,4 @@
-package p1_datatype;;
+package p1_Datatype;;
 
 class C //Learn first two properties of local variable.
 {
