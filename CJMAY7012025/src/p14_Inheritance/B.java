@@ -1,16 +1,16 @@
 package p14_Inheritance;
 
 public class B extends A{
-	static int b = 60;
+	int b = 60;
+
+	B(){
+		super(); // no arg. con. of super class 
+		//per defined ins.
+	}
 	
 	public static void main(String[] args) {
-		System.out.println(b); //60
-		System.out.println(A.a); //50
-		System.out.println(a); //50
-		
-		System.out.println(B.a); //50
-		System.out.println(B.b); //60
-		
+		B obj = new B();
+		System.out.println(obj.a); //Why?
 	}
 
 }
