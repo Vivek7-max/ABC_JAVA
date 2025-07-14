@@ -1,4 +1,4 @@
-package practice;
+package nonPrimitiveTypecasting;
 
 public class C {
 	
