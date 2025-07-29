@@ -2,7 +2,7 @@ package a1_array;
 
 import java.util.Arrays;
 
-public class P9 {
+public class P9_SortBuiltInMethod{
 	public static void main(String[] args) {
 		int[] a = {20,30,2,5,25};
 		System.out.println("Elements of array");

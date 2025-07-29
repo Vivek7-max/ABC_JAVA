@@ -1,6 +1,6 @@
 package a1_array;
 
-public class P8 {
+public class P8_Swapping {
 	public static void main(String[] args) {
 		int a = 40;
 		int b = 30;
