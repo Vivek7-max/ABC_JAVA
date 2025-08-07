@@ -13,4 +13,8 @@ public class P8_Swapping {
 		System.out.println(a); //30
 		System.out.println(b); //40
 	}
+	
+	public static void test() {
+		
+	}
 }
