@@ -1,4 +1,4 @@
-package buitInClasses;
+package buitInClasses_Object;
 
 public class P3 {
 	public static void main(String[] args) {

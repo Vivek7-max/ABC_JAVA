@@ -1,4 +1,4 @@
-package buitInClasses;
+package buitInClasses_Object;
 
 public class P2 {
 
