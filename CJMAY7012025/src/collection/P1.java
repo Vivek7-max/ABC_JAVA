@@ -19,5 +19,7 @@ public class P1 {
 		
 		System.out.println(l);//[10,Hi,a,50.5,35]
 		System.out.println(l.size());//5
+		
+		
 	}
 }
