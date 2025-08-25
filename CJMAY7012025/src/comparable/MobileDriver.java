@@ -1,21 +1,24 @@
-package collection;
+package comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class P25 {
+public class MobileDriver {
 	public static void main(String[] args) {
+		Mobile m1 = new Mobile("Nokia",4,70000);
+		Mobile m2 = new Mobile("Samsung",12,1500);
+		Mobile m3 = new Mobile("Oppo",8,1800);
+		
 		ArrayList al = new ArrayList();
-		al.add(30);
-		al.add(90);
-		al.add(70);
-		al.add(10);
-		al.add(20);
+		al.add(m1);
+		al.add(m2);
+		al.add(m3);
 		
 		System.out.println(al);
 		
 		Collections.sort(al);
 		
 		System.out.println(al);
+		
 	}
 }
